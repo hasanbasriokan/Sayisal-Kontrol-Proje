@@ -1,0 +1,1 @@
+"# Sayisal-Kontrol-Proje"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/hasanbasriokan/Sayisal-Kontrol-Proje.gitgit push -u origin main
